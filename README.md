@@ -1,1 +1,4 @@
-Hash decode tool
+# Hash Decoder
+
+Hash decode tool(under construction)
+
