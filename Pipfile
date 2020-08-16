@@ -7,6 +7,10 @@ verify_ssl = true
 autopep8 = "*"
 flake8 = "*"
 mypy = "*"
+isort = "*"
+sphinx = "*"
+pytest = "*"
+sphinx-rtd-theme = "*"
 
 [packages]
 
